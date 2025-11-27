@@ -13,12 +13,34 @@ The application is deployed and fully working on Render.
 ---
 
 ## 🔗 Live Links
+- **URL:** https://path-analyzer-career-1.onrender.com
+- **GitHub Repository:** https://github.com/Siddheshwar4141/path-analyzer-career  
 
-- **Frontend:** https://YOUR_FRONTEND_URL  
-- **Backend API:** https://YOUR_BACKEND_URL  
-- **GitHub Repository:** https://YOUR_GITHUB_REPO  
+# Setup & Run
 
----
+## Clone
+git clone https://github.com/Siddheshwar4141/path-analyzer-career
+cd path-analyzer-career
+
+## Backend
+cd backend
+npm install
+node index.js
+
+## Frontend
+cd frontend
+npm install
+npm run dev
+
+# App Live
+https://path-analyzer-career-1.onrender.com
+
+## 🧰 Tech Stack
+
+**Frontend:** React (Vite), Axios, CSS  
+**Backend:** Node.js, Express.js, Axios, CORS  
+**Deployment:** Render (Frontend + Backend) 
+
 
 ## 📌 Features
 
@@ -42,18 +64,5 @@ Fetches top 5 latest technology stories.
 
 ### 5. Combined Dashboard  
 - Left: Skill Gap Results  
-- Right: Roadmap  
-- Bottom: Tech News  
-
----
-
-## 🧰 Tech Stack
-
-**Frontend:** React (Vite), Axios, CSS  
-**Backend:** Node.js, Express.js, Axios, CORS  
-**Deployment:** Render (Frontend + Backend)  
-
----
-
-## 🛠️ Project Structure
-
+- Right: Career Roadmap  
+- Bottom: Latest Tech News  
