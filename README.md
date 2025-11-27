@@ -23,17 +23,15 @@ git clone https://github.com/Siddheshwar4141/path-analyzer-career
 cd path-analyzer-career
 
 ## Backend
-cd backend
-npm install
-node index.js
+- cd backend
+- npm install
+- node index.js
 
 ## Frontend
-cd frontend
-npm install
-npm run dev
+- cd frontend
+- npm install
+- npm run dev
 
-# App Live
-https://path-analyzer-career-1.onrender.com
 
 ## 🧰 Tech Stack
 
