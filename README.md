@@ -34,9 +34,23 @@ npm run dev
 ---
 
 ## 🧰 Tech Stack
-Frontend: React (Vite), Axios, CSS  
-Backend: Node.js, Express.js, Axios, CORS  
-Deployment: Render  
+
+### Frontend
+- HTML5
+- CSS3 (custom styling)
+- JavaScript (ES6+)
+- React (Vite)
+- Axios (API calls)
+
+### Backend
+- Node.js
+- Express.js
+- Axios (external API integration)
+- CORS
+
+### Deployment
+- Render (Frontend + Backend Hosting)
+
 
 ---
 
